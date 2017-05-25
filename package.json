@@ -10,8 +10,9 @@
   "author": "Ziad Saab <ziad.saab@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^0.8.6",
+    "bcrypt": "^1.0.2",
     "bcrypt-as-promised": "^1.1.0",
-    "promise-mysql": "^3.0.1"
+    "promise-mysql": "^3.0.1",
+    "request-promise": "^4.2.0"
   }
 }
